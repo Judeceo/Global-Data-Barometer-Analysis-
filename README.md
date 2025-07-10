@@ -21,7 +21,8 @@ Additionally, the bar chart displays the average scores by region, revealing whi
 Next, I will provide a brief summary of the key insights from this data.
 The distribution of scores suggests a wide variation in country performance, with most countries clustering around the lower to mid-range scores. The regional analysis indicates that certain regions tend to have higher average scores, pointing to regional disparities in whatever metric is being measured. This overview helps identify which areas may need more focus or improvement.
 
-<img width="1000" height="300" alt="JuliusImage" src="https://github.com/user-attachments/assets/f9644d66-2615-43cc-a4ad-157e3985787c" />
+<img width="605" height="218" alt="image" src="https://github.com/user-attachments/assets/22078374-a87b-4ee9-a58e-4f4f1e4e3cc5" />
+
 
 ### Data Source
 
